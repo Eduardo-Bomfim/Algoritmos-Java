@@ -7,6 +7,11 @@ ser calculadas pela fórmula de Baskhara.
 * */
 
 import java.util.Scanner;
+/*
+* Faça um algoritmo que leia 3 valores a, b e c, coeficientes de uma equação de segundo
+grau, e calcule e escreva as raizes da equação. Dica: As raízes de uma equação podem
+ser calculadas pela fórmula de Baskhara.
+* */
 
 public class exercicio5 {
 
