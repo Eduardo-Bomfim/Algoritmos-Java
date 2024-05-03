@@ -8,7 +8,7 @@ ser calculadas pela fórmula de Baskhara.
 
 import java.util.Scanner;
 
-public class atv5 {
+public class exercicio5 {
 
     public static void main(String[] args) {
 

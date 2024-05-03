@@ -8,7 +8,7 @@ triângulo que tem base igual a v1 e altura igual a v2. Dica: A área de um tri�
 dada pela expressão:
 (base x altura)/2
 */
-public class atv4 {
+public class exercicio4 {
 
     public static void main(String []args){
 
