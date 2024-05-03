@@ -1,5 +1,8 @@
 package org.example.atv1;
-
+/*
+* . Faça um algoritmo que leia um valor N, representando o lado de um quadrado, e
+calcule e escreva a área do quadrado.
+* */
 import java.util.Scanner;
 
 public class exercicio1 {
@@ -14,7 +17,7 @@ public class exercicio1 {
         n = sc.nextFloat();
 
         float area = n * n;
-        System.out.println("A área é: " + area);
+        System.out.println("A área é " + area);
 
         sc.close();
     }
