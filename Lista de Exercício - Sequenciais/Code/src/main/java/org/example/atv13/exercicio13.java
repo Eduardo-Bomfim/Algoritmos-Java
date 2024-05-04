@@ -11,7 +11,7 @@ public class exercicio13 {
 
     public static void main(String[] args) {
 
-        int quantAlunosSala, quantAlunosGrupo, restoGrupo, divisãoGrupo;
+        int quantAlunosSala, quantAlunosGrupo, restoGrupo, divisaoGrupo;
 
         Scanner sc = new Scanner(System.in);
 
@@ -20,10 +20,12 @@ public class exercicio13 {
         System.out.print("Quantidade de alunos grupo: ");
         quantAlunosGrupo = sc.nextInt();
 
-        divisãoGrupo = quantAlunosSala / quantAlunosGrupo;
+        divisaoGrupo = quantAlunosSala / quantAlunosGrupo;
         restoGrupo = quantAlunosSala % quantAlunosGrupo;
 
-        System.out.println("Quantidade de grupo: " + divisãoGrupo);
+        System.out.println("Quantidade de grupo: " + divisaoGrupo);
         System.out.println("Quantidade de alunos restantes: " + restoGrupo);
+
+        sc.close();
     }
 }
