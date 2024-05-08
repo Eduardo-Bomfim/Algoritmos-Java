@@ -50,7 +50,7 @@ public class Main {
 
         int contadorPar = 0, contadorImpar = 0, contadorMultiplo = 0, tamanho = 0;
 
-        int[] inteiroPositivo = new int[100];
+        int[] inteiroPositivo = new int[9999];
 
         //Instanciei o Scanner
         Scanner sc = new Scanner(System.in);
