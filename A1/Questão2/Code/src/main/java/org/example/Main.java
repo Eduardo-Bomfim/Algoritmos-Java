@@ -55,13 +55,13 @@ public class Main {
         //Instanciei o Scanner
         Scanner sc = new Scanner(System.in);
 
-        //Solicitando para o usuário digitar números inteiros positivos para classifica-los ou um número negativo
-        // para fechar o programa
-        System.out.println("Insira uma lista de número inteiros positivos (Insira um número negativo para parar o " +
-                "programa)");
-
         //Iniciando o laço de repetição
         while (true) {
+            //(Autor - Eduardo de Andrade do Bomfim Júnior)
+            //Solicitando para o usuário digitar números inteiros positivos para classifica-los ou um número negativo
+            // para fechar o programa
+            System.out.printf("Insira um número inteiro positivo (ou um número negativo para sair): ");
+
             //Capturando o valor inserido pela usuário e armazenando na variável
             inteiroPositivo[tamanho] = sc.nextInt();
 
