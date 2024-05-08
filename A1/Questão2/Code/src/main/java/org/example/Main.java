@@ -60,7 +60,7 @@ public class Main {
             //(Autor - Eduardo de Andrade do Bomfim Júnior)
             //Solicitando para o usuário digitar números inteiros positivos para classifica-los ou um número negativo
             // para fechar o programa
-            System.out.printf("Insira um número inteiro positivo (ou um número negativo para sair): ");
+            System.out.print("Insira um número inteiro positivo (ou um número negativo para sair): ");
 
             //Capturando o valor inserido pela usuário e armazenando na variável
             inteiroPositivo[tamanho] = sc.nextInt();
