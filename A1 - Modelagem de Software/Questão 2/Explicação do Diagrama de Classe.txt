@@ -1,0 +1,1 @@
+Diagrama de classe UML é uma ferramenta de modelagem orientada a objetos, que representa a estrutura e relações de suas classes, contendo os atributos e métodos. Com isso, ela tem como objetivo de facilitar a visualização e o entendimento da equipe sobre a arquitetura do sistema, contribuindo para o desenvolvimento do código do sistema de maneira clara e coesa.
